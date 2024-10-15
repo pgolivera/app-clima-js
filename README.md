@@ -1,7 +1,3 @@
-## Link al curso completo de Javascript en Youtube:
-[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
-
-
 # Tutorial de JavaScript: Aplicación de Clima
 
 Link para ver el resultado: [APLICACION DE CLIMA TRABAJO FINALIZADO](https://aplicacion-clima-javascript.netlify.app/)
